@@ -1,1 +1,155 @@
-<?php eval(base64_decode('CigiY2xlYXIiKTsKCiRrID0gIlszMzsxbSI7CiRoID0gIlszMjsxbSI7CiRwID0gIlszNzsxbSI7CiRtID0gIlszMTsxbSI7CiRvID0gIlszMDsxbSI7CgplY2hvICRwLiIJCiI7CmVjaG8gJHAuIgkgICAgICAgICAgIi4kaC4iQm90IERvciBYQ1AgWEwiLiRwLiIgICAgICAgIAoiOwplY2hvICRwLiIJICAgICAgIi4kcC4iQXV0aG9yOiBTYXRyaWEgV2liYXdhICAiLiRwLiIgICAKIjsKZWNobyAkcC4iCSAgIi4kcC4iTVIuWCIuJHAuIiAKIjsKZWNobyAkcC4iCSAgICIuJHAuIldlYnNpdGU6IFNlcHV0YXJ0dXRvcmlhbC1pZC5teS5pZCIuJHAuIiAgIAoiOwplY2hvICRwLiIJICAgICAgICIuJHAuIldITyBJICIuJGsuIkFNIi4kcC4iICAgICAgIAoiOwplY2hvICRwLiIJCgoiOwoKCnNsZWVwKDEpOwokbm8gPSByZWFkbGluZSgkcC4iCSBbXSBJbnB1dCBOdW1iZXIgICAiLiRtLiI6ICIuJGspOwoKJHVhPWFycmF5KAoJJ0hvc3Q6IDIzMTIzamdnaXZnZDkwODA5Nzk4NjkubmV0bGlmeS5hcHAnLAoJJ3NlYy1jaC11YS1tb2JpbGU6ID8xJywKCSd1c2VyLWFnZW50OiBNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IEspIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgTW9iaWxlIFNhZmFyaS81MzcuMzYnLAoJJ2NvbnRlbnQtdHlwZTogYXBwbGljYXRpb24vanNvbicsCgknb3JpZ2luOiBodHRwczovLzIzMTIzamdnaXZnZDkwODA5Nzk4NjkubmV0bGlmeS5hcHAnLAoJJ3NlYy1mZXRjaC1zaXRlOiBzYW1lLW9yaWdpbicsCgknc2VjLWZldGNoLW1vZGU6IGNvcnMnLAoJJ3NlYy1mZXRjaC1kZXN0OiBlbXB0eScsCgkncmVmZXJlcjogaHR0cHM6Ly8yMzEyM2pnZ2l2Z2Q5MDgwOTc5ODY5Lm5ldGxpZnkuYXBwLycKCQopOwoKJGNoID0gY3VybF9pbml0KCk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9VUkwsICJodHRwczovLzIzMTIzamdnaXZnZDkwODA5Nzk4NjkubmV0bGlmeS5hcHAvYXBpL3VzZXJzL290cCIpOwpjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfRk9MTE9XTE9DQVRJT04sIHRydWUpOwpjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsIDEpOwpjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUE9TVCwgMSk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9IVFRQSEVBREVSLCAkdWEpOwpjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfU1NMX1ZFUklGWVBFRVIsIDApOwokZGF0YT0oJ3sibXNpc2RuIjoiJy4kbm8uJyJ9Jyk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NURklFTERTLCAkZGF0YSk7CiRyZXMgPSBjdXJsX2V4ZWMoJGNoKTsKJHN1YyA9IHByZWdfbWF0Y2goIi9kaWtpcm0vaSIsJHJlcyk7CmlmKCRzdWMgPT0gIjEiKXsKCWVjaG8gJHAuIgkKIjsKCWVjaG8gJHAuIgkgIi4kaC4iICAgICBPVFAgU3VjY2VzcyBUZXJraXJpbSEiLiRwLiIgICAgIAoiOwoJZWNobyAkcC4iCQoiOwoJCn1lbHNlewoJZWNobyAkcC4iCQoiOwoJZWNobyAkcC4iCSAiLiRtLiIgICAgICBPVFAgR2FnYWwgVGVya2lyaW0hIi4kcC4iICAgICAgCiI7CgllY2hvICRwLiIJCiI7CglleGl0KCk7Cn0KCiRvdHAgPSByZWFkbGluZSgkcC4iCSBbXSBJbnB1dCBDb2RlIE9UUCAiLiRtLiI6ICIuJGspOwplY2hvICRwLiIJIF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCgoiOwoKJGNoID0gY3VybF9pbml0KCk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9VUkwsICJodHRwczovLzIzMTIzamdnaXZnZDkwODA5Nzk4NjkubmV0bGlmeS5hcHAvYXBpL3VzZXJzL2xvZ2luIik7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9GT0xMT1dMT0NBVElPTiwgdHJ1ZSk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgMSk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NULCAxKTsKY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX0hUVFBIRUFERVIsICR1YSk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiwgMCk7CiRkYXRhPSgneyJtc2lzZG4iOiInLiRuby4nIiwib3RwIjoiJy4kb3RwLicifScpOwpjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUE9TVEZJRUxEUywgJGRhdGEpOwokcmVzID0gY3VybF9leGVjKCRjaCk7CiRzdWMgPSBwcmVnX21hdGNoKCIvTG9naW4gU3VjY2Vzcy9pIiwkcmVzKTsKCmlmKCRzdWMgPT0gIjEiKXsKCSRqc29uID0ganNvbl9kZWNvZGUoJHJlcyk7CgkkdGtuID0gJGpzb24tPmRhdGF4LT5yZWZyZXNoX3Rva2VuOwoJCgllY2hvICRwLiIJCiI7CgllY2hvICRwLiIJICIuJGguIiAgICAgICAgIExvZ2luIFN1Y2Nlc3MhIi4kcC4iICAgICAgICAKIjsKCWVjaG8gJHAuIgkKIjsKCQp9ZWxzZXsKCWVjaG8gJHAuIgkKIjsKCWVjaG8gJHAuIgkgIi4kbS4iICAgICAgICAgIExvZ2luIEdhZ2FsISIuJHAuIiAgICAgICAgIAoiOwoJZWNobyAkcC4iCQoiOwoJZXhpdCgpOwp9CgokY2ggPSBjdXJsX2luaXQoKTsKY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1VSTCwgImh0dHBzOi8vMjMxMjNqZ2dpdmdkOTA4MDk3OTg2OS5uZXRsaWZ5LmFwcC9hcGkvdXNlcnMvYnV5Iik7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9GT0xMT1dMT0NBVElPTiwgdHJ1ZSk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9SRVRVUk5UUkFOU0ZFUiwgMSk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9QT1NULCAxKTsKY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX0hUVFBIRUFERVIsICR1YSk7CmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9TU0xfVkVSSUZZUEVFUiwgMCk7CiRkYXRhPSgneyJyZWZyZXNoX3Rva2VuIjoiJy4kdGtuLicifScpOwpjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUE9TVEZJRUxEUywgJGRhdGEpOwokcmVzID0gY3VybF9leGVjKCRjaCk7CiRzdWMgPSBwcmVnX21hdGNoKCIvU2FsZG8gVGlkYWsgQmlzYS9pIiwkcmVzKTsKJGNvYiA9IHByZWdfbWF0Y2goIi9Db2JhIExhZ2kvaSIsJHJlcyk7CiRiaXMgPSBwcmVnX21hdGNoKCIvU1VDQ0VTUy9pIiwkcmVzKTsKc2xlZXAoMSk7CmlmKCRzdWMgPT0gIjEiKXsKCWVjaG8gJHAuIgkKIjsKCWVjaG8gJHAuIgkgIi4kbS4iICAgICAgICAgIERvciBHYWdhbCEiLiRwLiIgICAgICAgICAgIAoiOwoJZWNobyAkcC4iCQoiOwoJCn1lbHNlaWYoJGNvYiA9PSAiMSIpewoJZWNobyAkcC4iCQoiOwoJZWNobyAkcC4iCSAiLiRrLiIgICAgICAgICBVbGFuZyBMYWdpISIuJHAuIiAgICAgICAgICAgCiI7CgllY2hvICRwLiIJCiI7CglleGl0KCk7Cn1lbHNlaWYoJGJpcyA9PSAiMSIpewoJZWNobyAkcC4iCQoiOwoJZWNobyAkcC4iCSAiLiRoLiIgICAgICAgICBEb3IgU3VjY2VzcyEiLiRwLiIgICAgICAgICAgCiI7CgllY2hvICRwLiIJCiI7CglleGl0KCk7Cn1lbHNlewoJZWNobyAkcC4iCQoiOwoJZWNobyAkcC4iCSAiLiRoLiIgICAgICAgICAgRG9yIEdhZ2FsISIuJHAuIiAgICAgICAgICAgCiI7CgllY2hvICRwLiIJCiI7CglleGl0KCk7')); ?>
+system("clear");
+
+$k = "[33;1m";
+$h = "[32;1m";
+$p = "[37;1m";
+$m = "[31;1m";
+$o = "[30;1m";
+
+echo $p."	
+";
+echo $p."	          ".$h."Bot Dor XCP XL".$p."        
+";
+echo $p."	      ".$p."Author: Satria Wibawa  ".$p."   
+";
+echo $p."	  ".$p."MR.X".$p." 
+";
+echo $p."	   ".$p."Website: Seputartutorial-id.my.id".$p."   
+";
+echo $p."	       ".$p."WHO I ".$k."AM".$p."       
+";
+echo $p."	
+
+";
+
+
+sleep(1);
+$no = readline($p."	 [] Input Number   ".$m.": ".$k);
+
+$ua=array(
+	'Host: 23123jggivgd9080979869.netlify.app',
+	'sec-ch-ua-mobile: ?1',
+	'user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
+	'content-type: application/json',
+	'origin: https://23123jggivgd9080979869.netlify.app',
+	'sec-fetch-site: same-origin',
+	'sec-fetch-mode: cors',
+	'sec-fetch-dest: empty',
+	'referer: https://23123jggivgd9080979869.netlify.app/'
+	
+);
+
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "https://23123jggivgd9080979869.netlify.app/api/users/otp");
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $ua);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+$data=('{"msisdn":"'.$no.'"}');
+curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+$res = curl_exec($ch);
+$suc = preg_match("/dikirm/i",$res);
+if($suc == "1"){
+	echo $p."	
+";
+	echo $p."	 ".$h."     OTP Success Terkirim!".$p."     
+";
+	echo $p."	
+";
+	
+}else{
+	echo $p."	
+";
+	echo $p."	 ".$m."      OTP Gagal Terkirim!".$p."      
+";
+	echo $p."	
+";
+	exit();
+}
+
+$otp = readline($p."	 [] Input Code OTP ".$m.": ".$k);
+echo $p."	 ________________________________
+
+";
+
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "https://23123jggivgd9080979869.netlify.app/api/users/login");
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $ua);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+$data=('{"msisdn":"'.$no.'","otp":"'.$otp.'"}');
+curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+$res = curl_exec($ch);
+$suc = preg_match("/Login Success/i",$res);
+
+if($suc == "1"){
+	$json = json_decode($res);
+	$tkn = $json->datax->refresh_token;
+	
+	echo $p."	
+";
+	echo $p."	 ".$h."         Login Success!".$p."        
+";
+	echo $p."	
+";
+	
+}else{
+	echo $p."	
+";
+	echo $p."	 ".$m."          Login Gagal!".$p."         
+";
+	echo $p."	
+";
+	exit();
+}
+
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "https://23123jggivgd9080979869.netlify.app/api/users/buy");
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $ua);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+$data=('{"refresh_token":"'.$tkn.'"}');
+curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+$res = curl_exec($ch);
+$suc = preg_match("/Saldo Tidak Bisa/i",$res);
+$cob = preg_match("/Coba Lagi/i",$res);
+$bis = preg_match("/SUCCESS/i",$res);
+sleep(1);
+if($suc == "1"){
+	echo $p."	
+";
+	echo $p."	 ".$m."          Dor Gagal!".$p."           
+";
+	echo $p."	
+";
+	
+}elseif($cob == "1"){
+	echo $p."	
+";
+	echo $p."	 ".$k."         Ulang Lagi!".$p."           
+";
+	echo $p."	
+";
+	exit();
+}elseif($bis == "1"){
+	echo $p."	
+";
+	echo $p."	 ".$h."         Dor Success!".$p."          
+";
+	echo $p."	
+";
+	exit();
+}else{
+	echo $p."	
+";
+	echo $p."	 ".$h."          Dor Gagal!".$p."           
+";
+	echo $p."	
+";
+	exit();
+}
