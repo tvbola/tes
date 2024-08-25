@@ -4,7 +4,7 @@ clear
 ipvps=$(curl -s https://ipv4.icanhazip.com)
 
 # Fetch the panel IP from the provided URL
-panel_ips=$(curl -s https://raw.githubusercontent.com/syfqsamvpn/iptv/main/panel_access.txt)
+panel_ips=$(curl -s https://raw.githubusercontent.com/tvbola/tes/main/panel_access.txt)
 
 # Check if the current server's IP matches the panel IP
 if [ "$(echo "${panel_ips}" | grep -wc "${ipvps}")" != '0' ]; then
